@@ -11,12 +11,15 @@
 <img src="https://github.com/Mohaned87/My-Portfolio/raw/main/CNS180Black.png" alt="Nova Smart Solutions" width="100%">
 
 <br>
+<blockquote>
 
 ### 🚀 الخصائص الذكية (لماذا CNS180؟)
 
 #### 📱 نظام التتبع والمساءلة (Accountability Tracking):
 * **لا مزيد من أعذار "لم أرَ التبليغ":** يوفر النظام لوحة تحكم تظهر بدقة مَن قرأ التبليغ؟ وفي أي وقت؟ ومَن لم يقرأ التبليغ بعد؟
 * **سجل القراءة اللحظي:** يراقب النظام "رحلة التبليغ" عبر لوحة تحكم تظهر حالة القراءة بدقة متناهية.
+</blockquote>
+
 <br>
 
 <img src="https://github.com/Mohaned87/My-Portfolio/raw/main/CNS180Audit.png" alt="Nova Smart Solutions" width="100%">
